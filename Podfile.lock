@@ -1,0 +1,62 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Kingfisher (5.12.0):
+    - Kingfisher/Core (= 5.12.0)
+  - Kingfisher/Core (5.12.0)
+  - Localize-Swift (2.0.0)
+  - ObjectMapper (3.5.1)
+  - "ObjectMapper+Realm (1.0)":
+    - ObjectMapper
+    - RealmSwift
+  - ObjectMapperAdditions/Core (6.0.2):
+    - ObjectMapper
+  - ObjectMapperAdditions/Realm (6.0.2):
+    - ObjectMapper
+    - ObjectMapperAdditions/Core
+    - RealmSwift
+  - Realm (4.3.0):
+    - Realm/Headers (= 4.3.0)
+  - Realm/Headers (4.3.0)
+  - RealmSwift (4.3.0):
+    - Realm (= 4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - AlamofireObjectMapper
+  - Kingfisher (~> 5.0)
+  - Localize-Swift (~> 2.0)
+  - ObjectMapper
+  - "ObjectMapper+Realm"
+  - ObjectMapperAdditions/Core (~> 6.0)
+  - ObjectMapperAdditions/Realm (~> 6.0)
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - Kingfisher
+    - Localize-Swift
+    - ObjectMapper
+    - "ObjectMapper+Realm"
+    - ObjectMapperAdditions
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  Kingfisher: dc6e0f53bb5b12c3e75bedb0e01bbd7a640eea69
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  "ObjectMapper+Realm": bd713d57132bf05880a656695137764692f7d2bb
+  ObjectMapperAdditions: 923fa7cdc45a7937e08fea8c715d18fc3604b122
+  Realm: 9357c3589555793e1860a7104a7412bca4a48d99
+  RealmSwift: 402f1e379a8ef82c635313037b043f0f06de880c
+
+PODFILE CHECKSUM: 0e0ab214e660478022f05732ea68225a6e738bad
+
+COCOAPODS: 1.8.4

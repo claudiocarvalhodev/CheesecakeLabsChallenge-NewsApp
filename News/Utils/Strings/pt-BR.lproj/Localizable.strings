@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  News
+
+  Created by claudiocarvalho on 08/01/20.
+  Copyright © 2020 claudiocarvalho. All rights reserved.
+*/
+"News" = "Notícias";
+"Details" = "Detalhes";
+"ErrorNetwork" = "Nenhuma conexão de rede";
+"ErrorNotEnoughData" = "A API não forneceu nenhum dado";
+"ErrorAPI" = "A API não está funcionando";
+"ErrorClient" = "A solicitação não é válida";
+"ErrorData" = "A API enviou dados inválidos";
+"ErrorResponse" = "A API enviou uma resposta inválida";

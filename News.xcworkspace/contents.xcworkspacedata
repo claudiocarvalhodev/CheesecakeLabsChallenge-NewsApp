@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:News.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:screenshots"
+      name = "screenshots">
+      <Group
+         location = "group:body"
+         name = "body">
+         <FileRef
+            location = "group:main-screenshot.png">
+         </FileRef>
+         <FileRef
+            location = "group:header-screenshot.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:iPhone"
+         name = "iPhone">
+         <FileRef
+            location = "group:Portrait.psd">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot05.png">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot04.png">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot06.png">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot07.png">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot014-1.png">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot015-1.png">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot016-1.png">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot010.png">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot03.png">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot02.png">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot011.png">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot013.png">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot01.png">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot012.png">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot09.png">
+         </FileRef>
+         <FileRef
+            location = "group:iphone-screenshot08.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:iPad"
+         name = "iPad">
+         <FileRef
+            location = "group:ipad-screenshot05.png">
+         </FileRef>
+         <FileRef
+            location = "group:ipad-screenshot04.png">
+         </FileRef>
+         <FileRef
+            location = "group:ipad-screenshot06.png">
+         </FileRef>
+         <FileRef
+            location = "group:ipad-screenshot03.png">
+         </FileRef>
+         <FileRef
+            location = "group:ipad-screenshot02.png">
+         </FileRef>
+         <FileRef
+            location = "group:ipad-screenshot01.png">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>

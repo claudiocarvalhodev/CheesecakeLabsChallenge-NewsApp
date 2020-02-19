@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  News
+
+  Created by claudiocarvalho on 08/01/20.
+  Copyright © 2020 claudiocarvalho. All rights reserved.
+*/
+"News" = "News";
+"Details" = "Details";
+"ErrorNetwork" = "No network connection";
+"ErrorNotEnoughData" = "The api did not provide any data";
+"ErrorAPI" = "The api is not working";
+"ErrorClient" = "The request is not valid";
+"ErrorData" = "The api sent invalid data";
+"ErrorResponse" = "The api sent invalid response";
