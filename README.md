@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/body/header-screenshot.png" alt="iOS Challenge Development by Claudio Carvalho"/>
+  <img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/body/header-screenshot.png" alt="iOS Challenge Development by Claudio Carvalho"/>
 </p>
 
 # News iOS App
@@ -16,7 +16,7 @@
 The app was implemented using the Cheesecakelabs Database API, which let you make requests for news content. The app allows you to see the news, search for a specific article, and of course, view a specific article details.
 
 <p align="center">
-  <img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/body/main-screenshot.png" alt="iOS Challenge Development by Claudio Carvalho"/>
+  <img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/body/main-screenshot.png" alt="iOS Challenge Development by Claudio Carvalho"/>
 </p>
 
 ## Description
@@ -45,34 +45,34 @@ Below is an overview of the functionality implemented:
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPhone/iphone-screenshot01.png" alt="News" width=400 height=375/></td>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPhone/iphone-screenshot02.png" alt="News" width=400 height=375/></td>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPhone/iphone-screenshot03.png" alt="News" width=400 height=375/></td>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPhone/iphone-screenshot06.png" alt="News" width=400 height=375/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPhone/iphone-screenshot01.png" alt="News" width=400 height=375/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPhone/iphone-screenshot02.png" alt="News" width=400 height=375/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPhone/iphone-screenshot03.png" alt="News" width=400 height=375/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPhone/iphone-screenshot06.png" alt="News" width=400 height=375/></td>
   </tr>
 </table>
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPhone/iphone-screenshot07.png" alt="News" width=400 height=375/></td>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPhone/iphone-screenshot08.png" alt="News" width=400 height=375/></td>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPhone/iphone-screenshot09.png" alt="News" width=400 height=375/></td>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPhone/iphone-screenshot010.png" alt="News" width=400 height=375/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPhone/iphone-screenshot07.png" alt="News" width=400 height=375/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPhone/iphone-screenshot08.png" alt="News" width=400 height=375/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPhone/iphone-screenshot09.png" alt="News" width=400 height=375/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPhone/iphone-screenshot010.png" alt="News" width=400 height=375/></td>
   </tr>
 </table>
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPhone/iphone-screenshot011.png" alt="News" width=400 height=375/></td>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPhone/iphone-screenshot012.png" alt="News" width=400 height=375/></td>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPhone/iphone-screenshot013.png" alt="News" width=400 height=375/></td>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPhone/iphone-screenshot04.png" alt="News" width=400 height=375/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPhone/iphone-screenshot011.png" alt="News" width=400 height=375/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPhone/iphone-screenshot012.png" alt="News" width=400 height=375/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPhone/iphone-screenshot013.png" alt="News" width=400 height=375/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPhone/iphone-screenshot04.png" alt="News" width=400 height=375/></td>
   </tr>
 </table>
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPhone/iphone-screenshot05.png" alt="News" width=200 height=375/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPhone/iphone-screenshot05.png" alt="News" width=200 height=375/></td>
   </tr>
 </table>
 
@@ -80,8 +80,8 @@ Below is an overview of the functionality implemented:
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPhone/iphone-screenshot014-1.png" alt="News" width=800 height=200/></td>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPhone/iphone-screenshot016-1.png" alt="News" width=800 height=200/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPhone/iphone-screenshot014-1.png" alt="News" width=800 height=200/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPhone/iphone-screenshot016-1.png" alt="News" width=800 height=200/></td>
   </tr>
 </table>
 
@@ -91,15 +91,15 @@ Below is an overview of the functionality implemented:
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPad/ipad-screenshot01.png" alt="News"/></td>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPad/ipad-screenshot02.png" alt="News"/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPad/ipad-screenshot01.png" alt="News"/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPad/ipad-screenshot02.png" alt="News"/></td>
   </tr>
 </table>
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPad/ipad-screenshot03.png" alt="News"/></td>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPad/ipad-screenshot04.png" alt="News"/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPad/ipad-screenshot03.png" alt="News"/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPad/ipad-screenshot04.png" alt="News"/></td>
   </tr>
 </table>
 
@@ -107,13 +107,13 @@ Below is an overview of the functionality implemented:
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPad/ipad-screenshot05.png" alt="News"/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPad/ipad-screenshot05.png" alt="News"/></td>
   </tr>
 </table>
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/ccarvofficial/claudio-carvalho-ios/blob/feature/readme-file/screenshots/iPad/ipad-screenshot06.png" alt="News"/></td>
+    <td><img src="https://github.com/claudiocarvalhodev/CheesecakeLabsChallenge-NewsApp/blob/master/screenshots/iPad/ipad-screenshot06.png" alt="News"/></td>
   </tr>
 </table>
 
